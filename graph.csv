@@ -1,0 +1,19 @@
+Anesthetize;Puncture
+Puncture;Blood return
+Blood return;Puncture
+Blood return;Drop probe
+Drop probe;Remove syringe
+Remove syringe;Guidewire install
+Guidewire install;Remove trocar
+Remove trocar;Check wire in long axis
+Remove trocar;Check wire in short axis
+Check wire in long axis;Check wire in short axis
+Check wire in short axis;Check wire in long axis
+Check wire in long axis;Wire in good position
+Check wire in short axis;Wire in good position
+Wire in good position;Puncture
+Wire in good position;Widen pathway
+Widen pathway;Advance catheter
+Advance catheter;Remove guidewire
+Remove guidewire;Check flow and reflow
+Check flow and reflow;Check catheter position

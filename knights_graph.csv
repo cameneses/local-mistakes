@@ -1,0 +1,7 @@
+Puncture;Remove syringe
+Remove syringe;Guidewire install
+Guidewire install;Remove trocar
+Remove trocar;Widen pathway
+Widen pathway;Advance catheter
+Advance catheter;Remove guidewire
+Remove trocar;Puncture

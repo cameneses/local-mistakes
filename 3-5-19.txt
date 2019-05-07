@@ -1,0 +1,13 @@
+1. Reworks
+
+Las actividades se hacen una sola vez en el proceso.
+
+¿Qué actividades son relevantes además de las dolorosas (aka jinetes)?
+
+Representación de las actividades que se vuelve a llevar a cabo
+    -> 
+
+2. Reworks de actividades
+
+Considerar saltos desde una actividad o etapa a una previa.
+

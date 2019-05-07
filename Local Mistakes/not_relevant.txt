@@ -1,0 +1,14 @@
+Prepare implements
+Hand washing
+Get in sterile clothes
+Clean puncture area
+Drap puncture area
+Ultrasound configuration
+Gel in probe
+Cover probe
+Put sterile gel
+Position probe
+Position patient
+Anatomic identification
+Doppler identification
+Compression identification
