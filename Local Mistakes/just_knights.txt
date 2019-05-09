@@ -1,8 +1,3 @@
-Prepare implements
-Hand washing
-Get in sterile clothes
-Clean puncture area
-Drap puncture area
 Ultrasound configuration
 Gel in probe
 Cover probe
@@ -15,7 +10,6 @@ Compression identification
 Anesthetize
 Blood return
 Drop probe
-Check wire in short axis
 Wire in good position
 Check flow and reflow
 Check catheter position

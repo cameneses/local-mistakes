@@ -1,158 +1,140 @@
 CASEID,ACTIVITY,COUNT
-1539302414925-video_1.3_CVC,Widen pathway,1
-1539302414925-video_1.3_CVC,Remove trocar,1
 1539302414925-video_1.3_CVC,Guidewire install,1
-1539302414925-video_1.3_CVC,Remove syringe,1
 1539302414925-video_1.3_CVC,Puncture,1
-1539302414925-video_1.3_CVC,Remove guidewire,1
-1539302414925-video_1.3_CVC,Check wire in long axis,2
+1539302414925-video_1.3_CVC,Remove trocar,1
 1539302414925-video_1.3_CVC,Advance catheter,1
-1539303857517-video_1.4_CVC,Widen pathway,1
-1539303857517-video_1.4_CVC,Remove trocar,1
+1539302414925-video_1.3_CVC,Remove syringe,1
+1539302414925-video_1.3_CVC,Remove guidewire,1
+1539302414925-video_1.3_CVC,Widen pathway,1
 1539303857517-video_1.4_CVC,Guidewire install,1
-1539303857517-video_1.4_CVC,Remove syringe,1
 1539303857517-video_1.4_CVC,Puncture,1
-1539303857517-video_1.4_CVC,Remove guidewire,1
+1539303857517-video_1.4_CVC,Remove trocar,1
 1539303857517-video_1.4_CVC,Advance catheter,1
-1547683734202-video_1.c_CVC,Remove trocar,1
+1539303857517-video_1.4_CVC,Remove syringe,1
+1539303857517-video_1.4_CVC,Remove guidewire,1
+1539303857517-video_1.4_CVC,Widen pathway,1
 1547683734202-video_1.c_CVC,Guidewire install,1
-1547683734202-video_1.c_CVC,Remove syringe,1
 1547683734202-video_1.c_CVC,Puncture,1
-1547683734202-video_1.c_CVC,Remove guidewire,1
-1547683734202-video_1.c_CVC,Check wire in long axis,1
 1547683734202-video_1.c_CVC,Advance catheter,1
-1547722738650-video_1.d_CVC,Widen pathway,1
-1547722738650-video_1.d_CVC,Remove trocar,1
+1547683734202-video_1.c_CVC,Remove trocar,1
+1547683734202-video_1.c_CVC,Remove syringe,1
+1547683734202-video_1.c_CVC,Remove guidewire,1
 1547722738650-video_1.d_CVC,Guidewire install,1
-1547722738650-video_1.d_CVC,Remove syringe,1
 1547722738650-video_1.d_CVC,Puncture,1
-1547722738650-video_1.d_CVC,Remove guidewire,1
-1547722738650-video_1.d_CVC,Check wire in long axis,2
+1547722738650-video_1.d_CVC,Remove trocar,1
 1547722738650-video_1.d_CVC,Advance catheter,1
-1547693943698-video_1.f_CVC,Widen pathway,1
-1547693943698-video_1.f_CVC,Remove trocar,1
+1547722738650-video_1.d_CVC,Remove syringe,1
+1547722738650-video_1.d_CVC,Remove guidewire,1
+1547722738650-video_1.d_CVC,Widen pathway,1
 1547693943698-video_1.f_CVC,Guidewire install,1
-1547693943698-video_1.f_CVC,Remove syringe,1
 1547693943698-video_1.f_CVC,Puncture,1
-1547693943698-video_1.f_CVC,Remove guidewire,1
-1547693943698-video_1.f_CVC,Check wire in long axis,1
+1547693943698-video_1.f_CVC,Remove trocar,1
 1547693943698-video_1.f_CVC,Advance catheter,1
-1547915248799-video_1.g_CVC,Widen pathway,1
-1547915248799-video_1.g_CVC,Remove trocar,1
+1547693943698-video_1.f_CVC,Remove syringe,1
+1547693943698-video_1.f_CVC,Remove guidewire,1
+1547693943698-video_1.f_CVC,Widen pathway,1
 1547915248799-video_1.g_CVC,Guidewire install,1
-1547915248799-video_1.g_CVC,Remove syringe,1
 1547915248799-video_1.g_CVC,Puncture,1
-1547915248799-video_1.g_CVC,Remove guidewire,1
-1547915248799-video_1.g_CVC,Check wire in long axis,1
+1547915248799-video_1.g_CVC,Remove trocar,1
 1547915248799-video_1.g_CVC,Advance catheter,1
-1547698148253-video_1.h_CVC,Widen pathway,1
-1547698148253-video_1.h_CVC,Remove trocar,2
+1547915248799-video_1.g_CVC,Remove syringe,1
+1547915248799-video_1.g_CVC,Remove guidewire,1
+1547915248799-video_1.g_CVC,Widen pathway,1
 1547698148253-video_1.h_CVC,Guidewire install,2
-1547698148253-video_1.h_CVC,Remove syringe,2
 1547698148253-video_1.h_CVC,Puncture,2
-1547698148253-video_1.h_CVC,Remove guidewire,1
-1547698148253-video_1.h_CVC,Check wire in long axis,2
+1547698148253-video_1.h_CVC,Remove trocar,2
 1547698148253-video_1.h_CVC,Advance catheter,1
-1547986862398-video_1.l_CVC,Widen pathway,1
-1547986862398-video_1.l_CVC,Remove trocar,1
+1547698148253-video_1.h_CVC,Remove syringe,2
+1547698148253-video_1.h_CVC,Remove guidewire,1
+1547698148253-video_1.h_CVC,Widen pathway,1
 1547986862398-video_1.l_CVC,Guidewire install,1
-1547986862398-video_1.l_CVC,Remove syringe,1
 1547986862398-video_1.l_CVC,Puncture,1
-1547986862398-video_1.l_CVC,Remove guidewire,1
-1547986862398-video_1.l_CVC,Check wire in long axis,1
+1547986862398-video_1.l_CVC,Remove trocar,1
 1547986862398-video_1.l_CVC,Advance catheter,1
-1539314415211-video_2.1_CVC,Widen pathway,1
-1539314415211-video_2.1_CVC,Remove trocar,2
+1547986862398-video_1.l_CVC,Remove syringe,1
+1547986862398-video_1.l_CVC,Remove guidewire,1
+1547986862398-video_1.l_CVC,Widen pathway,1
 1539314415211-video_2.1_CVC,Guidewire install,3
-1539314415211-video_2.1_CVC,Remove syringe,2
 1539314415211-video_2.1_CVC,Puncture,4
-1539314415211-video_2.1_CVC,Remove guidewire,2
-1539314415211-video_2.1_CVC,Check wire in long axis,6
+1539314415211-video_2.1_CVC,Remove trocar,2
 1539314415211-video_2.1_CVC,Advance catheter,3
-1547997805806-video_2.a_CVC,Widen pathway,1
-1547997805806-video_2.a_CVC,Remove trocar,1
+1539314415211-video_2.1_CVC,Remove syringe,2
+1539314415211-video_2.1_CVC,Remove guidewire,2
+1539314415211-video_2.1_CVC,Widen pathway,1
 1547997805806-video_2.a_CVC,Guidewire install,1
-1547997805806-video_2.a_CVC,Remove syringe,1
 1547997805806-video_2.a_CVC,Puncture,1
-1547997805806-video_2.a_CVC,Remove guidewire,1
-1547997805806-video_2.a_CVC,Check wire in long axis,1
+1547997805806-video_2.a_CVC,Remove trocar,1
 1547997805806-video_2.a_CVC,Advance catheter,1
-1548033283992-video_2.b_CVC,Widen pathway,1
-1548033283992-video_2.b_CVC,Remove trocar,1
+1547997805806-video_2.a_CVC,Remove syringe,1
+1547997805806-video_2.a_CVC,Remove guidewire,1
+1547997805806-video_2.a_CVC,Widen pathway,1
 1548033283992-video_2.b_CVC,Guidewire install,1
-1548033283992-video_2.b_CVC,Remove syringe,1
 1548033283992-video_2.b_CVC,Puncture,1
-1548033283992-video_2.b_CVC,Remove guidewire,1
-1548033283992-video_2.b_CVC,Check wire in long axis,1
+1548033283992-video_2.b_CVC,Remove trocar,1
 1548033283992-video_2.b_CVC,Advance catheter,1
-1548034300723-video_2.c_CVC,Widen pathway,1
-1548034300723-video_2.c_CVC,Remove trocar,1
+1548033283992-video_2.b_CVC,Remove syringe,1
+1548033283992-video_2.b_CVC,Remove guidewire,1
+1548033283992-video_2.b_CVC,Widen pathway,1
 1548034300723-video_2.c_CVC,Guidewire install,1
-1548034300723-video_2.c_CVC,Remove syringe,1
 1548034300723-video_2.c_CVC,Puncture,1
-1548034300723-video_2.c_CVC,Remove guidewire,1
-1548034300723-video_2.c_CVC,Check wire in long axis,1
+1548034300723-video_2.c_CVC,Remove trocar,1
 1548034300723-video_2.c_CVC,Advance catheter,1
-1548037113729-video_2.d_CVC,Widen pathway,1
-1548037113729-video_2.d_CVC,Remove trocar,1
+1548034300723-video_2.c_CVC,Remove syringe,1
+1548034300723-video_2.c_CVC,Remove guidewire,1
+1548034300723-video_2.c_CVC,Widen pathway,1
 1548037113729-video_2.d_CVC,Guidewire install,1
-1548037113729-video_2.d_CVC,Remove syringe,1
 1548037113729-video_2.d_CVC,Puncture,1
-1548037113729-video_2.d_CVC,Remove guidewire,1
-1548037113729-video_2.d_CVC,Check wire in long axis,2
+1548037113729-video_2.d_CVC,Remove trocar,1
 1548037113729-video_2.d_CVC,Advance catheter,6
-1539316889981-video_3.1_CVC,Widen pathway,2
-1539316889981-video_3.1_CVC,Remove trocar,2
+1548037113729-video_2.d_CVC,Remove syringe,1
+1548037113729-video_2.d_CVC,Remove guidewire,1
+1548037113729-video_2.d_CVC,Widen pathway,1
 1539316889981-video_3.1_CVC,Guidewire install,2
-1539316889981-video_3.1_CVC,Remove syringe,2
 1539316889981-video_3.1_CVC,Puncture,2
-1539316889981-video_3.1_CVC,Remove guidewire,1
-1539316889981-video_3.1_CVC,Check wire in long axis,1
+1539316889981-video_3.1_CVC,Remove trocar,2
 1539316889981-video_3.1_CVC,Advance catheter,2
-1539734942389-video_3.2_CVC,Widen pathway,1
-1539734942389-video_3.2_CVC,Remove trocar,1
+1539316889981-video_3.1_CVC,Remove syringe,2
+1539316889981-video_3.1_CVC,Remove guidewire,1
+1539316889981-video_3.1_CVC,Widen pathway,2
 1539734942389-video_3.2_CVC,Guidewire install,2
-1539734942389-video_3.2_CVC,Remove syringe,1
 1539734942389-video_3.2_CVC,Puncture,1
-1539734942389-video_3.2_CVC,Remove guidewire,1
-1539734942389-video_3.2_CVC,Check wire in long axis,2
+1539734942389-video_3.2_CVC,Remove trocar,1
 1539734942389-video_3.2_CVC,Advance catheter,1
-1539737717686-video_3.3_CVC,Widen pathway,1
-1539737717686-video_3.3_CVC,Remove trocar,1
+1539734942389-video_3.2_CVC,Remove syringe,1
+1539734942389-video_3.2_CVC,Remove guidewire,1
+1539734942389-video_3.2_CVC,Widen pathway,1
 1539737717686-video_3.3_CVC,Guidewire install,2
-1539737717686-video_3.3_CVC,Remove syringe,2
 1539737717686-video_3.3_CVC,Puncture,2
-1539737717686-video_3.3_CVC,Remove guidewire,1
-1539737717686-video_3.3_CVC,Check wire in long axis,1
+1539737717686-video_3.3_CVC,Remove trocar,1
 1539737717686-video_3.3_CVC,Advance catheter,1
-1539739275781-video_4.5_CVC,Widen pathway,1
-1539739275781-video_4.5_CVC,Remove trocar,1
+1539737717686-video_3.3_CVC,Remove syringe,2
+1539737717686-video_3.3_CVC,Remove guidewire,1
+1539737717686-video_3.3_CVC,Widen pathway,1
 1539739275781-video_4.5_CVC,Guidewire install,2
-1539739275781-video_4.5_CVC,Remove syringe,2
 1539739275781-video_4.5_CVC,Puncture,4
-1539739275781-video_4.5_CVC,Remove guidewire,1
-1539739275781-video_4.5_CVC,Check wire in long axis,4
 1539739275781-video_4.5_CVC,Advance catheter,2
-1539740347920-video_4.6_CVC,Widen pathway,1
-1539740347920-video_4.6_CVC,Remove trocar,1
+1539739275781-video_4.5_CVC,Remove trocar,1
+1539739275781-video_4.5_CVC,Remove syringe,2
+1539739275781-video_4.5_CVC,Remove guidewire,1
+1539739275781-video_4.5_CVC,Widen pathway,1
 1539740347920-video_4.6_CVC,Guidewire install,1
-1539740347920-video_4.6_CVC,Remove syringe,1
 1539740347920-video_4.6_CVC,Puncture,1
-1539740347920-video_4.6_CVC,Remove guidewire,1
-1539740347920-video_4.6_CVC,Check wire in long axis,1
+1539740347920-video_4.6_CVC,Remove trocar,1
 1539740347920-video_4.6_CVC,Advance catheter,1
-1539831132678-video_4.7_CVC,Widen pathway,1
-1539831132678-video_4.7_CVC,Remove trocar,1
+1539740347920-video_4.6_CVC,Remove syringe,1
+1539740347920-video_4.6_CVC,Remove guidewire,1
+1539740347920-video_4.6_CVC,Widen pathway,1
 1539831132678-video_4.7_CVC,Guidewire install,1
-1539831132678-video_4.7_CVC,Remove syringe,1
 1539831132678-video_4.7_CVC,Puncture,1
-1539831132678-video_4.7_CVC,Remove guidewire,1
+1539831132678-video_4.7_CVC,Remove trocar,1
 1539831132678-video_4.7_CVC,Advance catheter,1
-1539832275246-video_4.8_CVC,Widen pathway,2
-1539832275246-video_4.8_CVC,Remove trocar,2
+1539831132678-video_4.7_CVC,Remove syringe,1
+1539831132678-video_4.7_CVC,Remove guidewire,1
+1539831132678-video_4.7_CVC,Widen pathway,1
 1539832275246-video_4.8_CVC,Guidewire install,2
-1539832275246-video_4.8_CVC,Remove syringe,2
 1539832275246-video_4.8_CVC,Puncture,2
-1539832275246-video_4.8_CVC,Remove guidewire,1
-1539832275246-video_4.8_CVC,Check wire in long axis,1
+1539832275246-video_4.8_CVC,Remove trocar,2
 1539832275246-video_4.8_CVC,Advance catheter,2
+1539832275246-video_4.8_CVC,Remove syringe,2
+1539832275246-video_4.8_CVC,Remove guidewire,1
+1539832275246-video_4.8_CVC,Widen pathway,2
